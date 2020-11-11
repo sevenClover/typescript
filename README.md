@@ -1,1 +1,1 @@
-# typescript
+# typescript使用
